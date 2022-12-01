@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c46a2"],{"3b74":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("router-view")],1)},r=[],u={name:"",data:function(){return{}}},a=u,i=t("2877"),o=Object(i["a"])(a,c,r,!1,null,"f5fcf35c",null);e["default"]=o.exports}}]);
